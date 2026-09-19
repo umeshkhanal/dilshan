@@ -82,6 +82,10 @@ import fashionP9 from "./portfolio/fashion/p16.jpg";
 import fashionP10 from "./portfolio/fashion/p17.jpg";
 
 //realestate
+import realV1 from "./portfolio/realestate/01.mp4";
+import realV2 from "./portfolio/realestate/02.mp4";
+import realV3 from "./portfolio/realestate/03.mp4";
+import realV4 from "./portfolio/realestate/04.mp4";
 import realestateP1 from "./portfolio/realestate/01.jpg";
 import realestateP2 from "./portfolio/realestate/02.jpg";
 import realestateP3 from "./portfolio/realestate/03.jpg";
@@ -124,6 +128,10 @@ export const assets = {
   fashionP9,
 
   //realestate
+  realV1,
+  realV2,
+  realV3,
+  realV4,
   realestateP1,
   realestateP2,
   realestateP3,
