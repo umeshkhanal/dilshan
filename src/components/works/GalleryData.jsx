@@ -551,25 +551,25 @@ export const GALLERY_DATA = {
         items: [
           {
             id: "real-estate-video-01",
-            type: "videography",
+            type: "video",
             src: assets.realV1,
             title: "Real Estate videograph",
           },
           {
             id: "real-estate-video-02",
-            type: "videography",
+            type: "video",
             src: assets.realV2,
             title: "Real Estate videograph",
           },
           {
             id: "real-estate-video-03",
-            type: "videography",
+            type: "video",
             src: assets.realV3,
             title: "Real Estate videograph",
           },
           {
             id: "real-estate-video-04",
-            type: "videography",
+            type: "video",
             src: assets.realV4,
             title: "Real Estate videograph",
           },
