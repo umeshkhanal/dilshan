@@ -27,7 +27,7 @@ export default function SEOHandler() {
 
   const seo = SEO_MAP[path] || SEO_MAP["/"];
 
-  const baseUrl = "https://dilshan.vercel.app";
+  const baseUrl = "https://thanujadilshan.vercel.app";
   const url = `${baseUrl}${path}`;
 
   const { title, description, keywords } = seo;
