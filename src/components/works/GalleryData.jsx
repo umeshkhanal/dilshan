@@ -483,7 +483,7 @@ export const GALLERY_DATA = {
         id: "photography",
         title: "Photography",
         items: [
-            {
+          {
             id: "events-photo-01",
             type: "photography",
             src: assets.eventsP1,
@@ -548,7 +548,32 @@ export const GALLERY_DATA = {
       {
         id: "videography",
         title: "Videography",
-        items: [],
+        items: [
+          {
+            id: "real-estate-video-01",
+            type: "videography",
+            src: assets.realV1,
+            title: "Real Estate videograph",
+          },
+          {
+            id: "real-estate-video-02",
+            type: "videography",
+            src: assets.realV2,
+            title: "Real Estate videograph",
+          },
+          {
+            id: "real-estate-video-03",
+            type: "videography",
+            src: assets.realV3,
+            title: "Real Estate videograph",
+          },
+          {
+            id: "real-estate-video-04",
+            type: "videography",
+            src: assets.realV4,
+            title: "Real Estate videograph",
+          },
+        ],
       },
       {
         id: "photography",
