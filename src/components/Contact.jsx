@@ -299,10 +299,10 @@ const Contact = () => {
             whileInView="visible"
             viewport={{ once: true }}
           >
-            <h3 className="text-2xl sm:text-3xl font-light text-white mb-3">
+            <h3 className="text-2xl sm:text-3xl font-bold text-white mb-3">
               Tell me about
               <br />
-              <span className="text-amber-400 font-normal">your project.</span>
+              <span className="text-amber-400 font-semibold italic">your project.</span>
             </h3>
             <p className="text-sm text-slate-400 leading-relaxed mb-10 max-w-sm">
               Fill in the details and I'll get back to you shortly.
