@@ -83,7 +83,7 @@ const Contact = () => {
   };
 
   return (
-    <section id="contact" className="relative overflow-hidden bg-black">
+    <section id="contact" className="overflow-hidden bg-black">
       <div className="relative py-24 md:py-32 bg-black">
       {/* Ambient glow */}
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_rgba(251,191,36,0.06),transparent_60%)] pointer-events-none" />
