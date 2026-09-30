@@ -125,12 +125,6 @@ export const GALLERY_DATA = {
             title: "Car Care Video",
           },
           {
-            id: "car-care-video-02",
-            type: "video",
-            src: assets.care01,
-            title: "Car Care Video",
-          },
-          {
             id: "car-care-video-03",
             type: "video",
             src: assets.care02,
