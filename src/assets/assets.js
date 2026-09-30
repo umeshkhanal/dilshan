@@ -28,7 +28,7 @@ import m3 from "./portfolio/marketing/03.mp4";
 import m4 from "./portfolio/marketing/04.mp4";
 
 //carcare
-import care01 from "./portfolio/carcare/01.mp4";
+import care02 from "./portfolio/carcare/02.mp4";
 import care03 from "./portfolio/carcare/03.mp4";
 import careD1 from "./portfolio/carcare/d1.jpg";
 import careD2 from "./portfolio/carcare/d2.jpg";
@@ -163,7 +163,7 @@ export const assets = {
   m3,
   m4,
   //carcare
-  care01,
+  care02,
   care03,
   careD1,
   careD2,
