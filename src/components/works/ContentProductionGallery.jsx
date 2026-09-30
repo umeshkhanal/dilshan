@@ -44,12 +44,12 @@ import { GALLERY_DATA } from "./GalleryData";
 const CONTENT_CATEGORIES = [
   { id: "car-care", label: "Car Care", icon: Shield },
   { id: "marketing", label: "Marketing", icon: Megaphone },
-  { id: "car-rentals", label: "Car Rentals", icon: Car },
+  { id: "real-estate", label: "Real Estate", icon: Home },
+  { id: "events", label: "Events", icon: Calendar },
+  { id: "fashion", label: "Fashion", icon: Shirt },
   { id: "coffee", label: "Coffee", icon: Coffee },
   { id: "restaurants", label: "Restaurants", icon: Utensils },
-  { id: "fashion", label: "Fashion", icon: Shirt },
-  { id: "events", label: "Events", icon: Calendar },
-  { id: "real-estate", label: "Real Estate", icon: Home },
+  { id: "car-rentals", label: "Car Rentals", icon: Car },
 ];
 
 /* ---------- DATA ENRICHMENT (unchanged) ---------- */
