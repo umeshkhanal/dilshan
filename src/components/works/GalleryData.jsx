@@ -567,90 +567,19 @@ export const GALLERY_DATA = {
             src: assets.realV4,
             title: "Real Estate videograph",
           },
+           {
+            id: "real-estate-video-05",
+            type: "video",
+            src: assets.realV5,
+            title: "Real Estate videograph",
+          },
         ],
       },
       {
         id: "photography",
         title: "Photography",
         items: [
-          {
-            id: "real-estate-photo-01",
-            type: "photography",
-            src: assets.realestateP1,
-            title: "Real Estate Photograph",
-          },
-          {
-            id: "real-estate-photo-02",
-            type: "photography",
-            src: assets.realestateP2,
-            title: "Real Estate Photograph",
-          },
-          {
-            id: "real-estate-photo-03",
-            type: "photography",
-            src: assets.realestateP3,
-            title: "Real Estate Photograph",
-          },
-          {
-            id: "real-estate-photo-04",
-            type: "photography",
-            src: assets.realestateP4,
-            title: "Real Estate Photograph",
-          },
-          {
-            id: "real-estate-photo-05",
-            type: "photography",
-            src: assets.realestateP5,
-            title: "Real Estate Photograph",
-          },
-          {
-            id: "real-estate-photo-06",
-            type: "photography",
-            src: assets.realestateP6,
-            title: "Real Estate Photograph",
-          },
-          {
-            id: "real-estate-photo-07",
-            type: "photography",
-            src: assets.realestateP7,
-            title: "Real Estate Photograph",
-          },
-          {
-            id: "real-estate-photo-08",
-            type: "photography",
-            src: assets.realestateP8,
-            title: "Real Estate Photograph",
-          },
-          {
-            id: "real-estate-photo-09",
-            type: "photography",
-            src: assets.realestateP10,
-            title: "Real Estate Photograph",
-          },
-          {
-            id: "real-estate-photo-10",
-            type: "photography",
-            src: assets.realestateP9,
-            title: "Real Estate Photograph",
-          },
-          {
-            id: "real-estate-photo-11",
-            type: "photography",
-            src: assets.realestateP11,
-            title: "Real Estate Photograph",
-          },
-          {
-            id: "real-estate-photo-12",
-            type: "photography",
-            src: assets.realestateP12,
-            title: "Real Estate Photograph",
-          },
-          {
-            id: "real-estate-photo-13",
-            type: "photography",
-            src: assets.realestateP13,
-            title: "Real Estate Photograph",
-          },
+
         ],
       },
       {
