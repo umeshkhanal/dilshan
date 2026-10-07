@@ -42,9 +42,9 @@ import {
 import { GALLERY_DATA } from "./GalleryData";
 
 const CONTENT_CATEGORIES = [
+  { id: "real-estate", label: "Real Estate", icon: Home },
   { id: "car-care", label: "Car Care", icon: Shield },
   { id: "marketing", label: "Marketing", icon: Megaphone },
-  { id: "real-estate", label: "Real Estate", icon: Home },
   { id: "events", label: "Events", icon: Calendar },
   { id: "fashion", label: "Fashion", icon: Shirt },
   { id: "coffee", label: "Coffee", icon: Coffee },
@@ -648,7 +648,7 @@ const MediaViewer = ({
  * ==================================================================== */
 
 const ContentProductionGallery = () => {
-  const [activeCategory, setActiveCategory] = useState("car-care");
+  const [activeCategory, setActiveCategory] = useState("real-estate");
   const [selectedIndex, setSelectedIndex] = useState(null);
   const [imageErrors, setImageErrors] = useState({});
   const [likedIds, setLikedIds] = useState(() => new Set());
